@@ -150,7 +150,7 @@ const players = [
 
     {
         number: 10,
-        name: "MBAPP?",
+        name: "MBAPPE",
         position: "Forward",
         short: "FW"
     },
@@ -384,7 +384,7 @@ groups.forEach(group => {
                             <div>
 
                                 <strong>
-                                    —
+                                    â€”
                                 </strong>
 
                                 <span>
@@ -397,7 +397,7 @@ groups.forEach(group => {
                             <div>
 
                                 <strong>
-                                    —
+                                    â€”
                                 </strong>
 
                                 <span>
@@ -410,7 +410,7 @@ groups.forEach(group => {
                             <div>
 
                                 <strong>
-                                    —
+                                    â€”
                                 </strong>
 
                                 <span>
@@ -423,7 +423,7 @@ groups.forEach(group => {
                             <div>
 
                                 <strong>
-                                    —
+                                    â€”
                                 </strong>
 
                                 <span>
